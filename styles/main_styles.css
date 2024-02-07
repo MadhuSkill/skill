@@ -2022,3 +2022,12 @@ section
 {
 	color: #14bdee;
 }
+
+
+
+@media screen and (max-width: 766px) {
+	.header.scrolled .header_content {
+		margin-top: 32px;
+		height: 80px;
+	}
+}
