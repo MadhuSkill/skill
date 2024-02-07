@@ -353,6 +353,14 @@ section
 	height: 80px;
 }
 
+
+@media screen and (max-width: 766px) {
+	.header.scrolled .header_content {
+		margin-top: 32px;
+		height: 80px;
+	}
+}
+
 /*********************************
 3.3 Logo
 *********************************/
